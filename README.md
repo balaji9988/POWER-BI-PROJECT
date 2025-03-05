@@ -1,49 +1,41 @@
-# Power BI Project
+# Olympics 2000 to 2024 Analysis
 
 ## Overview
-This repository contains a Power BI project designed to analyze and visualize data insights effectively. The project utilizes Power BI's interactive dashboards and data modeling capabilities to provide meaningful business intelligence.
-
-## Project File
-- **File Name**: `POWER BI PROJECT.pbix`
-- **Format**: `.pbix` (Power BI Desktop file)
-- **Purpose**: Provides data visualizations, reports, and insights based on structured datasets.
+This project provides a visual analysis of the Olympic Games from the years 2000 to 2024, focusing on various key statistics, including host countries, total events, medal counts, and Indian athletes' performance.
 
 ## Features
-- **Interactive Dashboards**: Explore dynamic visuals and reports.
-- **Data Modeling**: Efficiently structured data for insightful analytics.
-- **KPI Tracking**: Monitor key performance indicators (KPIs).
-- **Filters & Slicers**: Customizable views for deeper analysis.
+- **Olympics Host Countries**: Displays the cities that hosted the Olympics during the years analyzed.
+- **Highest Gold Medal Winner**: Highlights the country that won the most gold medals in a given year.
+- **India's Total Medals**: A count of total medals won by Indian athletes.
+- **Indian Gold Medalists**: Notable Indian gold medal winners, such as Neeraj Chopra and Abhinav Bindra.
+- **Indian Women Medalists**: Representation of medals won by Indian female athletes.
+- **Olympics Event Count**: A pie chart showing the total number of events in each Olympic year.
+- **Indian Athletes Participation**: A visual representation of the number of Indian athletes participating across Olympic years.
+- **General Olympics Information**: A brief explanation of the Olympic Games.
 
-## Requirements
-To open and explore this project, you need:
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Latest version recommended)
-- A Windows machine (Power BI Desktop is not available on macOS natively)
+## Data Visualization
+The project includes various charts and infographics such as:
+- **Pie Charts** for event distributions.
+- **Bar Graphs** for medal counts and athlete participation.
+- **Highlighted Text Blocks** for key achievements.
+- **Images** of notable Indian Olympic champions.
 
-## Installation & Usage
-1. Download and install Power BI Desktop.
-2. Clone this repository or download the `.pbix` file.
-3. Open `POWER BI PROJECT.pbix` in Power BI Desktop.
-4. Explore the dashboards and reports.
+## Technologies Used
+- **Power BI** (or a similar visualization tool) for data analysis and dashboard creation.
+- **Data Sources**: Olympic medal counts, event records, and athlete statistics.
 
-## Data Sources
-This project uses structured data from various sources, including:
-- CSV/Excel files
-- SQL databases
-- Online services (if applicable)
+## How to Use
+1. Open the dashboard in your preferred visualization tool.
+2. Explore different insights by selecting the Olympic year.
+3. Analyze the trends in medal wins, athlete participation, and event distributions.
+4. Identify key players and their contributions to India's Olympic success.
 
-## Contribution
+## Contributions
 Feel free to contribute by:
-- Enhancing visualizations.
-- Improving data models.
-- Adding new insights and reports.
+- Adding more statistics or updating data for future Olympics.
+- Enhancing visualizations with interactive elements.
+- Improving data accuracy with official sources.
 
 ## License
-This project is open-source and available for use under the [MIT License](LICENSE).
-
-## Contact
-For any questions or suggestions, please reach out via GitHub Issues or contact the project owner.
-
----
-
-Happy analyzing! 🚀
+This project is open-source under the MIT License. Feel free to use and modify it as needed.
 
